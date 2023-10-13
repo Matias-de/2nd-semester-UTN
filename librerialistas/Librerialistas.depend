@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696356080 source:c:\users\gc\desktop\asfsafsafsporfanecesitoaprobar\listas.h
+
+1696469300 source:c:\users\gc\desktop\asfsafsafsporfanecesitoaprobar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1696468700 c:\users\gc\desktop\asfsafsafsporfanecesitoaprobar\listas.h
+
+1696469168 source:c:\users\gc\desktop\asfsafsafsporfanecesitoaprobar\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
