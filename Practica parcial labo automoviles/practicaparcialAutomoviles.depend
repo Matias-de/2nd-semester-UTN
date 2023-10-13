@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1695826694 source:c:\users\usuario\desktop\practicaparcialautomoviles\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1695826443 c:\users\usuario\desktop\practicaparcialautomoviles\autos.h
+
+1695826148 source:c:\users\usuario\desktop\practicaparcialautomoviles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+	"menu.h"
+
+1695826127 c:\users\usuario\desktop\practicaparcialautomoviles\menu.h
+
+1695826448 source:c:\users\usuario\desktop\practicaparcialautomoviles\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1695826696 source:c:\users\gc\desktop\practicaparcialautomoviles\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1695826444 c:\users\gc\desktop\practicaparcialautomoviles\autos.h
+
+1695826150 source:c:\users\gc\desktop\practicaparcialautomoviles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+	"menu.h"
+
+1695826128 c:\users\gc\desktop\practicaparcialautomoviles\menu.h
+
+1695827128 source:c:\users\gc\desktop\practicaparcialautomoviles\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
