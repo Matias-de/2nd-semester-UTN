@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694640854 source:c:\users\gc\desktop\listasypilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilas.h"
+
+1694640607 source:c:\users\gc\desktop\listasypilas\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilas.h"
+
+1694637809 c:\users\gc\desktop\listasypilas\pilas.h
+
