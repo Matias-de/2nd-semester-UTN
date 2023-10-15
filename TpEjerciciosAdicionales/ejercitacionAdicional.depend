@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1695915348 source:c:\users\usuario\desktop\ejercitacionadicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1695915250 c:\users\usuario\desktop\ejercitacionadicional\funciones.h
+
+1695915217 source:c:\users\usuario\desktop\ejercitacionadicional\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696298733 source:c:\users\gc\desktop\ejercitacionadicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696298651 c:\users\gc\desktop\ejercitacionadicional\funciones.h
+
+1696298651 source:c:\users\gc\desktop\ejercitacionadicional\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
