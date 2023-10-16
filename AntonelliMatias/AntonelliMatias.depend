@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1696515494 source:d:\antonellimatias\antonellimatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696515284 d:\antonellimatias\antonellimatias\funciones.h
+
+1696515639 source:d:\antonellimatias\antonellimatias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696515496 source:c:\users\gc\desktop\2nd-semester-utn\parcial1labo\antonellimatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696515286 c:\users\gc\desktop\2nd-semester-utn\parcial1labo\antonellimatias\funciones.h
+
+1696515874 source:c:\users\gc\desktop\2nd-semester-utn\parcial1labo\antonellimatias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696515496 source:c:\users\gc\desktop\2nd-semester-utn\antonellimatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1696515286 c:\users\gc\desktop\2nd-semester-utn\antonellimatias\funciones.h
+
